@@ -10,7 +10,7 @@ This is what it's going to look like:
 
 ![Screenshot](https://s3.amazonaws.com/learn-verified/react-stores-lab-screenshot.png)
 
-## Directory Structure
+## Directorky Structure
 
 ```
 components/
